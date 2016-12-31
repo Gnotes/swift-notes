@@ -14,11 +14,11 @@ swift学习笔记
 - [swift-String介绍](markdown/string.md)
 - 
 
-## 参考文档
+## Reference
 
 - [hackingwithswift](https://www.hackingwithswift.com/)
 
-## 学习视频
+## Videos
 
 - [玩儿转Swift 2.0 - season 1](http://www.imooc.com/learn/635)
 - [玩儿转Swift 2.0 - season 2](http://www.imooc.com/learn/642)
